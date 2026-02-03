@@ -7,7 +7,7 @@ authors = ["Yannick Koehler <ykoehler@arubanetworks.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 click = "^7.1.2"
-scapy = "^2.4.3"
+scapy = "^2.7.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
